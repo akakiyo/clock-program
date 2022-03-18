@@ -87,7 +87,7 @@ end
 # 数：45
 def getFour
   asciiart = <<END
-     ##    ##     
+     ##    ##      
     ##     ##      
    ##      ##      
   ##       ##      
